@@ -20,7 +20,7 @@ We released the code of FGA-Seg!
 Please follow [installation](INSTALL.md). 
 
 ## Data Preparation
-Please follow [dataset preperation](datasets/README.md).
+Please follow [dataset preparation](datasets/README.md).
 
 ## Training
 We provide shell scripts for training and evaluation. ```run.sh``` trains the model in default configuration and evaluates the model after training. 
