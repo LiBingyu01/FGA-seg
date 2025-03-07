@@ -98,5 +98,10 @@ We also thank [Benedikt](mailto:benedikt.blumenstiel@student.kit.edu) for findin
 ## Citing FGA-Seg :
 
 ```BibTeX
-
+@article{li2025fgaseg,
+  title={FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation},
+  author={Li, Bingyu and Zhang, Da and Zhao, Zhiyuan and Gao, Junyu and Li, Xuelong},
+  journal={arXiv preprint arXiv:2501.00877},
+  year={2025}
+}
 ```
